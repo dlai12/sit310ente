@@ -150,21 +150,21 @@ frames:
   map_0/street_light_1:
     relative_to: ~
     pose:
-      x: 1.6
-      y: 1.6
+      x: 2.3
+      y: 1.8
       z: 0
       roll: 0
       pitch: 0
-      yaw: 2.356
+      yaw: 3.1
   map_0/street_light_2:
     relative_to: ~
     pose:
-      x: 2.6
-      y: 1.6
+      x: 2.3
+      y: 0.0
       z: 0
       roll: 0
       pitch: 0
-      yaw: 2.356
+      yaw: 6.1
   map_0/vehicle_0:
     relative_to: ~
     pose:
@@ -179,6 +179,15 @@ frames:
     pose:
       x: 0.0
       y: 0.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_0:
+    relative_to: ~
+    pose:
+      x: 2.4
+      y: 0.4
       z: 0.0
       roll: 0.0
       pitch: 0.0

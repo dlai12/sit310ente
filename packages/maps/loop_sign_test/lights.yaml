@@ -27,7 +27,7 @@ lights:
     intensity: 0.6
     range: 2.0
     angle: 0.0
-    color: "#f00000"
+    color: "#ffffff"
   map_0/street_light_0/light_0:
     type: spot
     intensity: 2.0
@@ -39,11 +39,11 @@ lights:
     intensity: 2.0
     range: 6.0
     angle: 0.0
-    color: "#f00000"
-  map_0/duckie_0/light_0:
+    color: "#ffffff"
+  map_0/street_light_2/light_0:
     type: spot
     intensity: 10.0
     range: 6.0
     angle: 0.0
-    color: "#fff"
+    color: "#ffffff"
 
